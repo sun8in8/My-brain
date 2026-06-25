@@ -1,26 +1,43 @@
 # YouTube Channel Strategy
+*Last updated: June 2026*
 
-## Niche
-Mindfulness & Meditation — accessible, practical, warm
+---
 
-## Target audience
-People curious about mindfulness but not yet deeply experienced. Likely 25–45, stressed, looking for calm and tools they can actually use.
+## The channel
+**Shhhh Storytime Starts** — long-form ASMR for people at the end of a busy day who want meaningful rest, not just noise.
 
-## Channel positioning
-_To be defined — what makes my channel different from other mindfulness channels?_
+## The audience
+People who are done. Done with the noise, the pace, the demands. They want somewhere quiet to land. They want to feel something settle. They are not looking for distraction — they are looking for *permission to slow down*.
+
+## The voice
+Literary, unhurried, philosophical. Soft-spoken with depth. Every episode has something worth sitting with — a thought, a story, a feeling that lingers after the sound fades.
+
+## What success looks like right now
+- Watch time climbing (the primary signal)
+- Subscribers growing steadily
+- Mailing list signups — free affirmation PDF guide as the lead magnet
+- Some of those convert to the physical book on Amazon
+
+## The end goal
+A channel that earns. A dream that is real. Proof — to myself most of all — that this was worth building.
+
+## Positioning
+Not background noise. Not productivity ASMR. The channel for people who want their quiet time to mean something.
 
 ## Content pillars
-1. **Guided meditations** — short and long form, for specific situations (anxiety, sleep, morning, focus)
-2. **Mindfulness explainers** — "what is X and how do I actually do it"
-3. **Personal story / journey** — authentic behind-the-scenes of my own practice
-4. **Inspiration & research** — what I'm learning from other creators and teachers
+1. **Roleplay** — warm, character-led, immersive (e.g. The Librarian)
+2. **Cultural immersion** — sensory, escapist, place-based (e.g. A Rainy Sunday in Barcelona)
+3. **Storytime** — personal, literary, emotionally resonant (e.g. A Letter I Never Sent)
+4. **Sleep & affirmation** — direct address, gentle, permission-giving
 
 ## Posting cadence
-_To be defined_
+- **Target:** 1 long-form episode per week (20–25 min)
+- **Buffer:** maintain 4 episodes recorded ahead before going live
+- **Batch recording:** 3 episodes per session, then edit week, then publish week
 
-## Growth focus areas
-- [ ] Define unique positioning vs similar channels
-- [ ] Research top 10 mindfulness channels for inspiration
-- [ ] Identify 3 core video formats that fit my style
-- [ ] Set posting schedule
-- [ ] Build first content calendar
+## Lead magnet
+Free PDF: *You Are Allowed to Quiet Down* — affirmation guide
+Physical book available on Amazon for those who want to go deeper
+
+## Platforms
+YouTube primary. Repurpose to Shorts, IG Reels, TikTok when capacity allows.
